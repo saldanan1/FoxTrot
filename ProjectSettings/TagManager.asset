@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TripleJump
+  - SpeedUp
+  - SpeedDown
+  - HigherJump
+  - Normal
+  - Music
+  - GM
+  - Checkpoint
+  - Basics
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Bounding Walls
+  - Player
+  - SpecialBlock
+  - Canvas
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BehindBackground
+    uniqueID: 696295857
+    locked: 0
+  - name: Background
+    uniqueID: 1055001923
+    locked: 0
+  - name: 2nd Background
+    uniqueID: 966094803
+    locked: 0
+  - name: 3rd Background
+    uniqueID: 1240816089
+    locked: 0
+  - name: 4th Lowest
+    uniqueID: 1228669615
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: TopMostLayer
+    uniqueID: 1649545675
+    locked: 0

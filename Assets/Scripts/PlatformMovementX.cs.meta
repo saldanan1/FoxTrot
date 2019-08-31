@@ -1,0 +1,18 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+public class PlatformMovementX : MonoBehaviour
+{
+    public float timeElapsed;
+
+    void Start()
+    {
+
+    }
+    void Update()
+    {
+        timeElapsed += Time.deltaTime;
+        transform.position = new Vector2(Mathf.Sin(timeElapsed) * 3f,0);
+    }
+}
